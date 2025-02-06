@@ -50,12 +50,12 @@ Posters (500 words): Obtain feedback on early-stage work! Empirical results are 
 At presenters’ discretion, all materials will be made available after the workshop. 
 
 # Important Dates:
-March 10, 2025: submissions due
-April 10, 2025: notifications
+* March 10, 2025: submissions due
+* April 10, 2025: notifications
 
 # Awards
-Best paper award: $100. 
-Best poster award: $100. 
+* Best paper award: $100. 
+* Best poster award: $100. 
 
 # Registration fee
 Free for ASIS&T (https://www.asist.org/) members; $25 for non-members
