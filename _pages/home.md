@@ -7,7 +7,7 @@ permalink: /
 # When and Where
 * **Date:** April 29th, 2025
 * **Venue:** Online
-* **Schedule**: [here]()
+* **Schedule**: [here](/schedule/)
 
 # Call for Participation
 
@@ -58,7 +58,7 @@ At presenters’ discretion, all materials will be made available after the work
 * Best poster award: $100. 
 
 # Registration fee
-Free for ASIS&T (https://www.asist.org/) members; $25 for non-members
+Free for [ASIS&T](https://www.asist.org/) members; $25 for non-members
 
 # Contact
 Please contact [Yu Chi](mailto:yu.chi@sjsu.edu) or [Annie T. Chen](mailto:chen@uw.edu) with any inquiries.
