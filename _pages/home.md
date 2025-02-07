@@ -1,12 +1,12 @@
 ---
 layout: home
 title: home
-home_title:  "Online Workshop: Considering Cultural and Linguistic Diversity in AI Applications"
+home_title:  "Hybrid Workshop: Considering Cultural and Linguistic Diversity in AI Applications"
 permalink: /
 ---
 # When and Where
-* **Date:** April 29th, 2025
-* **Venue:** Online
+* **Date:** May 6th, 2025
+* **Venue:** In-person/Online
 * **Schedule**: [here](/schedule/)
 
 # Call for Participation
