@@ -4,17 +4,38 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-home",
-    title: "home",
+    title: "Home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-schedule",
-          title: "schedule",
+  },{id: "nav-call-for-partipation",
+          title: "Call for Partipation",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cip/";
+          },
+        },{id: "nav-schedule",
+          title: "Schedule",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/schedule/";
+          },
+        },{id: "nav-committee",
+          title: "Committee",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/committee/";
+          },
+        },{id: "nav-registration",
+          title: "Registration",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/registration/";
           },
         },{id: "post-a-post-with-image-galleries",
       
