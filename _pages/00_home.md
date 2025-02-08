@@ -12,7 +12,8 @@ AI has tremendous potential to improve all different aspects of our lives – le
 * How might these considerations inform how we regard or develop applications involving AI?
 * How do we collaboratively work towards integrating the values and preferences of communities of interest in AI tools?
 
-This workshop seeks to bring together researchers, practitioners, and others who work with (or are interested in working with) culturally and linguistically diverse (CALD) populations. All levels of technical expertise welcome!
+This workshop will be a **hybrid event** on **May 6, 2025** from **12:30pm** to **16:30pm** (PST). It seeks to bring together researchers, practitioners, and others who work with (or are interested in working with) culturally and linguistically diverse (CALD) populations. All levels of technical expertise welcome!
+
 
 **Event purposes**: 
 1. raise awareness about the importance of thoughtful engagement in the design of AI applications for culturally and linguistically diverse populations; 
@@ -21,11 +22,12 @@ This workshop seeks to bring together researchers, practitioners, and others who
 
 **Expected lessons learned**: 
 1. experiential learning experiences with prompt engineering;
-2. takeaways and strategies for working with communities of interest
+2. takeaways and strategies for working with communities of interest.
 
 **Workshop locations**: 
 University of Washington (UW); University of California, Irvine (UCI); and virtual.
 
 **Event Sponsors**: 
-Association for Information Science & Technology (ASIS&T) U.S. West Chapter and UCI Connected Learning Lab.
+* Association for Information Science & Technology (ASIS&T) U.S. West Chapter
+* UCI Connected Learning Lab
 

@@ -13,10 +13,10 @@ nav_title: Call for Partipation
 There will be Best Paper and Poster awards.
 
 # Submission Instructions
-* Please prepare your submission according to the ASIS&T template. 
+* Please prepare your submission according to the [ASIS&T template](https://growthzonecmsprodeastus.azureedge.net/sites/2036/Template-Instructions-2025-final.docx). 
 * Consistent with ASIS&T submission guidelines, the review process will be double-blind. Please do not put your names and affiliations on the first submission.
 * You do not need to present anything to participate.
 
 # Important Dates
-* March 10, 2025: submissions due
-* April 10, 2025: notifications
+* **Submissions Deadline**: `March 10, 2025`
+* **Notifications**: `April 10, 2025`
