@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-schedule",
           title: "Schedule",
-          description: "",
+          description: "This workshop will be held on Tues, May 6th, 2025 @ 12:30 – 4:30 PST. Note that all times are provided in Pacific Standard Time.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/schedule/";
