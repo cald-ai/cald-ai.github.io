@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /cip/
-title: Call for Partipation
+title: Call for Participation
 nav: 1
-nav_title: Call for Partipation
+nav_title: Call for Participation
 ---
 
 **Research/practice talk (up to 1500 words)**: Completed research or works-in-progress, incorporating empirical data and/or conceptual reflections. 
