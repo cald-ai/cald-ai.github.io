@@ -8,7 +8,7 @@ description: This workshop will be held on Tues, May 6th, 2025 @ 12:30 – 16:30
 ---
 
 
-| **Time (PST)**{: .h5} | **Event**{: .h5} |
+| **Time (PST, time zone [converter](https://www.timeanddate.com/worldclock/converter.html))**{: .h5} | **Event**{: .h5} |
 | :-----:   | :-----: |
 | 12:30 - 12:40  | Opening Remarks |
 | 12:40 - 13:30  | Research/practice presentations |

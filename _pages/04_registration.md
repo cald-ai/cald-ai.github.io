@@ -12,4 +12,4 @@ nav_title: Registration, Scholarships, and Contact
 
 **The registration and submission sites will open soon.**
 
-Please contact [Yu Chi](mailto:yu.chi@sjsu.edu) or [Annie T. Chen](mailto:chen@uw.edu) with any inquiries.
+Please contact [asist.us.west@gmail.com](mailto:asist.us.west@gmail.com) with any inquiries.
