@@ -14,7 +14,7 @@ Paper/Poster Chair
 
 Committee
 * [Kylie Peppler](http://kpeppler.com/), University of California, Irvine
-* [Mizuki (Mimi) Ito](https://mimiito.com/), University of California, Irvine
+* [Mizuko (Mimi) Ito](https://mimiito.com/), University of California, Irvine
 * [Kim Gomez](https://seis.ucla.edu/faculty/kim-gomez/), University of California, Los Angeles
 * [Kevin Lee](https://dental.washington.edu/people/kevin-lee/), University of Washington
 * [Sharon H. Wong](https://sites.uw.edu/landlab/sharon-wong/), University of Washington
