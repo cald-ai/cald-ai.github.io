@@ -17,7 +17,7 @@ There will be Best Paper and Poster awards.
 * Consistent with ASIS&T submission guidelines, the review process will be double-blind. Please do not put your names and affiliations on the first submission.
 * You do not need to present anything to participate.
 
-**Submit [here](https://url.usb.m.mimecastprotect.com/s/jy9MCzqg1DiGNPPG8uot9T9Ypnt?domain=sjsu.qualtrics.com)**
+**Please submit your work through [this link](https://url.usb.m.mimecastprotect.com/s/jy9MCzqg1DiGNPPG8uot9T9Ypnt?domain=sjsu.qualtrics.com)**.
 
 # Important Dates
 * **Submissions Deadline**: `March 10, 2025`
