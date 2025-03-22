@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-home_title:  "Hybrid Workshop: Considering Cultural and Linguistic Diversity in AI Applications"
+home_title:  "Considering Cultural and Linguistic Diversity in AI Applications: A Hybrid Workshop"
 permalink: /
 ---
 

@@ -6,8 +6,6 @@ nav: 1
 nav_title: Call for Participation
 ---
 
-**DEADLINE EXTENDED** to `March 18, 2025`.
-
 **Research/practice talk (up to 1500 words)**: Completed research or works-in-progress, incorporating empirical data and/or conceptual reflections. 
 
 **Posters (500 words)**: Obtain feedback on early-stage work! Empirical results are not required.
@@ -22,7 +20,7 @@ There will be Best Paper and Poster awards.
 **Please submit your work through [this link](https://sjsu.qualtrics.com/jfe/form/SV_77pDCj1eYdA4nUa)**.
 
 # Important Dates
-* Paper and poster submissions due: ~~`March 10, 2025`~~ `March 18, 2025`
+* Paper and poster submissions due: ~~`March 18, 2025`~~ `Submissions closed`
 * Student registration applications due: `April 1, 2025`
 * Paper, poster, and scholarship notifications: `April 10, 2025`
 

@@ -22,6 +22,7 @@ Committee
 Facilitators
 * [Maja Krtalić](https://people.wgtn.ac.nz/maja.krtalic), Victoria University of Wellington
 * [Oleg Zaslavsky](https://nursing.uw.edu/person/3692664-oleg-zaslavsky/), University of Washington
+* [Le Yang](https://library.uoregon.edu/directory/yang), University of Oregon
 
 Webmaster
 * [Xinchen Yu](https://xinchenyu.github.io/), University of Arizona
