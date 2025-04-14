@@ -21,6 +21,6 @@ There will be Best Paper and Poster awards.
 
 # Important Dates
 * Paper and poster submissions due: ~~`March 18, 2025`~~ `Submissions closed`
-* Student registration applications due: `April 1, 2025`
-* Paper, poster, and scholarship notifications: `April 10, 2025`
+* Student registration applications due: ~~``April 1, 2025``~~
+* Paper, poster, and scholarship notifications: ~~``April 10, 2025``~~
 
