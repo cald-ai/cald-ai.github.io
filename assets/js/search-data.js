@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cip/";
           },
+        },{id: "nav-accepted-work",
+          title: "Accepted Work",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/accepted-work/";
+          },
         },{id: "nav-schedule",
           title: "Schedule",
           description: "This workshop will be held on Tues, May 6th, 2025 @ 12:30 – 16:30 PST. Note that all times are provided in Pacific Standard Time.",
