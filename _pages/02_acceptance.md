@@ -1,10 +1,12 @@
 ---
 layout: page
-permalink: /accepted-work/
-title: Accepted Work
+permalink: /accepted-works/
+title: Accepted Works
 nav: 4
 description:
 ---
+
+These are the accepted submissions. The schedule will be set pending confirmation from the presenters.
 
 ## Papers
 
