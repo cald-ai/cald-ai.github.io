@@ -10,7 +10,7 @@ Chair
 * [Annie T. Chen](https://annietchen.github.io/), University of Washington
 
 Paper/Poster Chair
-* [Yu Chi](), San Jose State University
+* [Yu Chi](https://ischoolapps.sjsu.edu/facultypages/view.php?fac=chiy), San Jose State University
 
 Committee
 * [Kylie Peppler](http://kpeppler.com/), University of California, Irvine
