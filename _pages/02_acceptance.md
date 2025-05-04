@@ -6,7 +6,6 @@ nav: 4
 description:
 ---
 
-These are the accepted submissions. The schedule will be set pending confirmation from the presenters.
 
 ## Papers
 
@@ -16,11 +15,11 @@ Assessing GPT's Bias Towards Stigmatized Social Groups: An Intersectional Case S
 From Stories to STEM: Using AI to Co-Create Culturally Relevant Science Narratives
 : &nbsp;&nbsp;&nbsp; _Aria Gastón-Panthaki, Giovanni Sanchez, Kunlei Hun, Viviana Velez Negron, Teressa Sutterfield, Mark Warschauer, Andres Bustamante_
 
-Learning from Elders: Making an LLM-powered Chatbot for Retirement Communities more Accessible through User-centered Design
-: &nbsp;&nbsp;&nbsp; _Luna Xingyu Li, Ray-Yuan Chung, Feng Chen, Wenyu Zeng, Yein Jeon, Oleg Zaslavsky_
-
 Design implications of Generative AI tools for School aged Children for Narrative Writing
 : &nbsp;&nbsp;&nbsp; _Ariel Han, Shenshen Han, Seth Corrigan, Kylie Peppler_
+
+Learning from Elders: Making an LLM-powered Chatbot for Retirement Communities more Accessible through User-centered Design
+: &nbsp;&nbsp;&nbsp; _Luna Xingyu Li, Ray-Yuan Chung, Feng Chen, Wenyu Zeng, Yein Jeon, Oleg Zaslavsky_
 
 ## Posters
 Cultural Influences on Perceptions of AI Empathy
@@ -28,9 +27,6 @@ Cultural Influences on Perceptions of AI Empathy
 
 Voices of Learning: Generating Culturally Relevant Educational Podcasts with AI
 : &nbsp;&nbsp;&nbsp; _Tiffany D. Do, Kareem Edouard_
-
-Building and Assessing Culturally Sensitive AI Literacy in Pima County Public Libraries
-: &nbsp;&nbsp;&nbsp; _Sarah Bratt_
 
 Revisiting China's Cultural Revolution (1966-1976) through Simulated Dialogues
 : &nbsp;&nbsp;&nbsp; _Zhibo Zhuang, Rongqian Ma_
@@ -65,7 +61,7 @@ Leveraging Generative AI for Translanguaging Support in Computational Thinking E
 AI for Global Health: Leveraging Large Language Models for Tuberculosis Treatment Adherence
 : &nbsp;&nbsp;&nbsp; _Daniil Filienko, Mahek Nizar, Javier Roberti, Denise Galdamez, Haroon Jakher, Sarah Iribarren, Weichao Yuwen, Martine De Cock_
 
-Code-Mixing as Identity Performance: LLM-Assisted Content Analysis of Vietnamese Linguistic Innovation on Threads.net
+Scaling Interactional Sociolinguistics: An LLM-Facilitated Analysis of Vietnamese Code-Mixing on Threads.net
 : &nbsp;&nbsp;&nbsp; _Phuong-Anh Nguyen-Le_
 
 Advancing Equity in STEM: Analyzing Survey Tools for Female High School Students Using the COSTAR Framework
