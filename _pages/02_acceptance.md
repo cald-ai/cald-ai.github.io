@@ -9,10 +9,10 @@ description:
 
 ## Papers
 
-Assessing GPT's Bias Towards Stigmatized Social Groups: An Intersectional Case Study on Nationality Prejudice and Psychophobia
+[Assessing GPT's Bias Towards Stigmatized Social Groups: An Intersectional Case Study on Nationality Prejudice and Psychophobia](https://doi.org/10.5281/zenodo.15353103)
 : &nbsp;&nbsp;&nbsp; _Afifah Kashif, Heer Patel  *authors contributed equally_
 
-From Stories to STEM: Using AI to Co-Create Culturally Relevant Science Narratives
+[From Stories to STEM: Using AI to Co-Create Culturally Relevant Science Narratives]()
 : &nbsp;&nbsp;&nbsp; _Aria Gastón-Panthaki, Giovanni Sanchez, Kunlei Hun, Viviana Velez Negron, Teressa Sutterfield, Mark Warschauer, Andres Bustamante_
 
 [Design implications of Generative AI tools for School aged Children for Narrative Writing](https://doi.org/10.5281/zenodo.15277268)
@@ -22,7 +22,7 @@ From Stories to STEM: Using AI to Co-Create Culturally Relevant Science Narrativ
 : &nbsp;&nbsp;&nbsp; _Luna Xingyu Li, Ray-Yuan Chung, Feng Chen, Wenyu Zeng, Yein Jeon, Oleg Zaslavsky_
 
 ## Posters
-Cultural Influences on Perceptions of AI Empathy
+[Cultural Influences on Perceptions of AI Empathy](https://doi.org/10.5281/zenodo.15367932)
 : &nbsp;&nbsp;&nbsp; _Jiaying "Lizzy" Liu_
 
 [Voices of Learning: Generating Culturally Relevant Educational Podcasts with AI](https://doi.org/10.5281/zenodo.15270377)
@@ -49,7 +49,7 @@ Cultural Influences on Perceptions of AI Empathy
 [The Politics of Accuracy in AI Divination: Explainability and Ineffability](https://doi.org/10.5281/zenodo.15313893)
 : &nbsp;&nbsp;&nbsp; _Silei Zhu_
 
-Exploring How AI-Driven Mental Health Chatbots Impact User Wellbeing
+[Exploring How AI-Driven Mental Health Chatbots Impact User Wellbeing]()
 : &nbsp;&nbsp;&nbsp; _Nimra Ishfaq, Aditya Surendranath, Ishita Jain_
 
 [The role of appearance customization in children’s interactions with conversational agents](https://doi.org/10.5281/zenodo.15300093)
@@ -58,11 +58,11 @@ Exploring How AI-Driven Mental Health Chatbots Impact User Wellbeing
 [Leveraging Generative AI for Translanguaging Support in Computational Thinking Education: A Work in Progress](https://doi.org/10.5281/zenodo.15346608)
 : &nbsp;&nbsp;&nbsp; _Sharin Jacob, Quinn Burke_
 
-AI for Global Health: Leveraging Large Language Models for Tuberculosis Treatment Adherence
+[AI for Global Health: Leveraging Large Language Models for Tuberculosis Treatment Adherence]()
 : &nbsp;&nbsp;&nbsp; _Daniil Filienko, Mahek Nizar, Javier Roberti, Denise Galdamez, Haroon Jakher, Sarah Iribarren, Weichao Yuwen, Martine De Cock_
 
 [Scaling Interactional Sociolinguistics: An LLM-Facilitated Analysis of Vietnamese Code-Mixing on Threads.net](https://doi.org/10.5281/zenodo.15314429)
 : &nbsp;&nbsp;&nbsp; _Phuong-Anh Nguyen-Le_
 
-Advancing Equity in STEM: Analyzing Survey Tools for Female High School Students Using the COSTAR Framework
+[Advancing Equity in STEM: Analyzing Survey Tools for Female High School Students Using the COSTAR Framework]()
 : &nbsp;&nbsp;&nbsp; _Mariama Henry, Haoning Jiang, Seth Corrigan, Kylie Peppler_

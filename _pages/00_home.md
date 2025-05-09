@@ -31,3 +31,4 @@ University of Washington (UW); University of California, Irvine (UCI); and virtu
 * Association for Information Science & Technology (ASIS&T) U.S. West Chapter
 * UCI Connected Learning Lab
 
+This workshop has now concluded! The tutorial slides are available [here](bit.ly/4d9OCfe).
